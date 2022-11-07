@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451914892097",
+    "project_id": "suapp-firebase",
+    "storage_bucket": "suapp-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451914892097:android:354484de8552c1ab3d17c0",
+        "android_client_info": {
+          "package_name": "com.example.stradiotouselessapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451914892097-pk6ii6brtblgr7kud8kmbv3mj9p0fh78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8q4JdgXZCPqJ4OeKK8pqEVSx-iMA_Rr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451914892097-pk6ii6brtblgr7kud8kmbv3mj9p0fh78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
