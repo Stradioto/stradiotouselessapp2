@@ -1,4 +1,4 @@
-# stradiotouselessapp2
+# stradiotoapp2
 
 A new Flutter project.
 
